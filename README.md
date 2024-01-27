@@ -24,6 +24,7 @@ Click [here](https://rajeev-modalwindow.netlify.app/) and test out Model Window.
 - CSS
 - HTML
 - Markdown
+- DOM
 
 #### Other Tools
 
