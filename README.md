@@ -36,7 +36,7 @@ Click [here](https://rajeev-modalwindow.netlify.app/) and test out Model Window.
 
 1. First of all fork this [Repository](https://github.com/beRajeevKumar/Modal-Window.git) and clone it.
 2. Drag the project into VS Code.
-3. Click to the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension and run the index.html file.
+3. Click to the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension and run the `index.html` file.
 4. The app is now running, Now you can test the Website.
 
 ## Useful Links
@@ -47,7 +47,7 @@ Click [here](https://rajeev-modalwindow.netlify.app/) and test out Model Window.
 
 ## Need help?
 
-Feel free to contact me on [Twitter](https://twitter.com/be_rajeevkumar) or [LinkedIn](https://www.linkedin.com/in/berajeevkumar/), know more about me at [Portfolio](https://iamrajeev.me).
+Feel free to contact me on [Twitter](https://twitter.com/be_rajeevkumar) or [LinkedIn](https://www.linkedin.com/in/berajeevkumar/), know more about me at my [Portfolio](https://iamrajeev.me).
 
 [![Twitter](https://img.shields.io/badge/Twitter-follow-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/be_rajeevkumar)
 
